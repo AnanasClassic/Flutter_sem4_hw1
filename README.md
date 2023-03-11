@@ -1,16 +1,14 @@
-# task_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # HW 1 FLUTTER
+ Приложение для просмотра новостей на интересную тему
+ Реализована лента новостей
+ Есть возможность выбора темы новости через виджеты в верхней части экрана, при клике на один из них лента новостей обновляется.
+ При нажатии на новость появляется страница с более подробной информацией и ссылкой на первоисточник.
+ Поддерживается тёмная тема.
+Есть кнопка обновления новостей / кнопка "назад" при просмотре новости.
+Также реализована большая буква F, являющаяся логотипом приложения.
+## Демонстрация работы приложения
+![msg939278812-154581](https://github.com/AnanasClassic/Flutter_sem4_hw1/assets/114666468/5a912bef-c7cc-49c5-acdd-2455b0f6d813)
+![msg939278812-154582](https://github.com/AnanasClassic/Flutter_sem4_hw1/assets/114666468/4830097b-5d87-432b-9563-26fdb7705b72)
+![msg939278812-154583](https://github.com/AnanasClassic/Flutter_sem4_hw1/assets/114666468/462feec8-6bfb-44d9-9017-eb898ab9125b)
+![msg939278812-154584](https://github.com/AnanasClassic/Flutter_sem4_hw1/assets/114666468/c53c76fb-69fc-423d-936b-f77f56e4ccd0)
+![msg939278812-154585](https://github.com/AnanasClassic/Flutter_sem4_hw1/assets/114666468/c71a8477-1162-4934-b546-5a5313cf1646)
