@@ -47,6 +47,12 @@ class _HomeState extends State<Home> {
   }
 
   getNews(String url) async {
+    if (url == "") {
+      setState(() {
+        _loading = false;
+      });
+      return;
+    }
     setState(() {
       _loading = true;
     });
